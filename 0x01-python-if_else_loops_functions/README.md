@@ -1,1 +1,1 @@
-Learning functions, if statements and loops in python programming
+Learning if_else_loops in python programming

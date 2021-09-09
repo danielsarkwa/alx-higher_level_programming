@@ -1,1 +1,1 @@
-The introductory project for python study
+Introductory python programming project
