@@ -1,1 +1,0 @@
-Learning functions, if statements and loops in python programming
